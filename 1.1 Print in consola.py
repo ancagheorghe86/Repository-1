@@ -1,6 +1,6 @@
 '''
-mai multe ecomntarii
-clinia 1
+mai multe comentarii
+linia 1
 linia 2
 '''
 
